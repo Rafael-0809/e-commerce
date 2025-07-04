@@ -1,0 +1,10 @@
+.carrossel {
+    width: 100%;
+    height: 100px;
+    background-color: rgb(70, 21, 80);
+}
+
+
+.principais_produtos {
+    display: flex;
+}
