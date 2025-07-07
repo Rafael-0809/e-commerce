@@ -1,10 +1,84 @@
-.carrossel {
-    width: 100%;
-    height: 100px;
-    background-color: rgb(70, 21, 80);
+h4 {
+    margin-top: 45px;
+    margin-bottom: 45px;
+    margin-left: 15px;
 }
 
-
-.principais_produtos {
+.pecas_de_roupa {
     display: flex;
+    justify-content: space-between;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+/*Icones*/
+.camisetas {
+    background-color: #FF0000;
+    border-radius: 50%;
+    height: 145px;
+    width: 145px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.calcas {
+    background-color: #FFC300;
+    border-radius: 50%;
+    height: 145px;
+    width: 145px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.blusas {
+    background-color: #1B0DED;
+    border-radius: 50%;
+    height: 145px;
+    width: 145px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.bermudas {
+    background-color: #44FF00;
+    border-radius: 50%;
+    height: 145px;
+    width: 145px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/*Camisetas*/
+.camisas {
+    display: flex;
+    justify-content: space-between;
+    margin-left: margin 15px;
+}
+
+/*Calças*/
+
+.calcas-aba {
+    display: flex;
+    justify-content: space-between;
+    margin-left: margin 15px;
+}
+
+/*Blusas*/
+
+.blusas-aba {
+    display: flex;
+    justify-content: space-between;
+    margin-left: margin 15px;
+}
+
+/*Bermudas*/
+
+.bermudas-aba {
+    display: flex;
+    justify-content: space-between;
+    margin-left: margin 15px;
 }
